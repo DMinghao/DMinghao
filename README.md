@@ -1,13 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Minghao Du</h1>
-<h3 align="center">A business student who loves tech</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dminghao&label=Profile%20views&color=f81c1c&style=flat-square" alt="dminghao" /> </p>
-
-<br/>
+<h1 align="left">Hi there 👋, I'm Minghao Du</h1> <img src="https://komarev.com/ghpvc/?username=dminghao&label=Profile%20views&color=f81c1c&style=flat-square" alt="dminghao" /> 
+<h3 align="left">A business student who loves tech</h3>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/DMinghao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="minghaodu" height="30" width="40" /></a>
 
 - 📄 Know about my experiences <a href="https://linkedin.com/in/minghaodu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="minghaodu" height="30" width="40" /></a>
+
+### :zap: Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -67,35 +71,8 @@ Here are some ideas to get you started:
 
 <img align="center" alt="minghaodu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DMinghao&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&layout=compact&exclude_repo=BeaconProgramer)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&langs_count=10&layout=compact&exclude_repo=BeaconProgramer)
 
 ![DMinghao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DMinghao)
 
-### :zap: Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### Connect with me:
-
-[<img align="left" alt="minghaodu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
-[linkedin]: https://linkedin.com/in/minghaodu
