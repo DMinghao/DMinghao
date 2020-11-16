@@ -1,5 +1,5 @@
 <div>
-<h1 align="left">Hi there <img src="./asset/wave.gif" alt="wave"/>, I'm Minghao Du</h1> <img src="https://komarev.com/ghpvc/?username=dminghao&label=Profile%20views&color=f81c1c&style=flat-square" alt="dminghao" /> 
+<h1 align="left">Hi there <img src="./asset/wave.gif" style="width:10%;height:10%;"alt="wave"/>, I'm Minghao Du</h1> <img src="https://komarev.com/ghpvc/?username=dminghao&label=Profile%20views&color=f81c1c&style=flat-square" alt="dminghao" /> 
 </div>
 <h3 align="left">A business student who loves tech</h3>
 
