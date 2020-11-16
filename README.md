@@ -1,11 +1,12 @@
 <div>
-<h1 align="left">Hi there <img src="./asset/wave.gif" style="width:10%;height:10%;"alt="wave"/>, I'm Minghao Du</h1> <img src="https://komarev.com/ghpvc/?username=dminghao&label=Profile%20views&color=f81c1c&style=flat-square" alt="dminghao" /> 
+<h1 align="left">Hi there <img src="./asset/wave.gif" style="width:10rem;height:10rem;"alt="wave"/>, I'm Minghao Du</h1> <img src="https://komarev.com/ghpvc/?username=dminghao&label=Profile%20views&color=f81c1c&style=flat-square" alt="dminghao" /> 
 </div>
-<h3 align="left">A business student who loves tech</h3>
+
+## A business student who loves tech
 
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
-- 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 [Shuyuan Group](www.shuyuaninc.com)
+- 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 <img src="./asset/Shuyuan6.png" style="width:10rem;height:10rem;"alt="wave"/>[Shuyuan Group](www.shuyuaninc.com)
 
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Infomation Systems 𝚊𝚝 Johns Hopkins 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 
 
@@ -13,7 +14,7 @@
 
 - 📄 Know about my experiences <a href="https://linkedin.com/in/minghaodu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="minghaodu" height="30" width="40" /></a>
 
-### :zap: Recent GitHub Activity
+## :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -21,7 +22,7 @@
 
 <br/>
 
-<h3 align="left">🔧 Languages and Tools:</h3>
+## 🔧 Languages and Tools:
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
@@ -61,10 +62,10 @@
 </p>
 
 
-### &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/DMinghao/DMinghao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&hide=ipynb&exclude_repo=BeaconProgramer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&hide=jupyter&exclude_repo=BeaconProgramer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/DMinghao/DMinghao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMinghao&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Minghao's GitHub Stats" />
@@ -74,7 +75,8 @@
 <img align="center" alt="minghaodu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DMinghao&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&langs_count=10&layout=compact&exclude_repo=BeaconProgramer) -->
-
-![DMinghao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DMinghao)
-
+<a href="https://github.com/DMinghao/DMinghao">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMinghao"/>
+<!-- ![DMinghao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DMinghao) -->
+</a>
 
