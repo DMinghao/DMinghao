@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ### :zap: GitHub Stats
 
-  <img align="center" alt="minghaodu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DMinghao&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" alt="minghaodu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DMinghao&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&layout=compact&exclude_repo=BeaconProgramer)
+![DMinghao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DMinghao)
 
 ### :zap: Recent GitHub Activity
   
