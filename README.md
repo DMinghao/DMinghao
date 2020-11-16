@@ -17,13 +17,21 @@ Here are some ideas to get you started:
 
 ### :zap: GitHub Stats
 
-  <img align="left" alt="minghaodu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DMinghao&show_icons=true&hide_border=true" />
+  <img align="left" alt="minghaodu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DMinghao&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+
+
+### :zap: Recent GitHub Activity
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ### Connect with me:
 
 [<img align="left" alt="minghaodu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -42,20 +50,5 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  
-
-</details>
 
 [linkedin]: https://linkedin.com/in/minghaodu
