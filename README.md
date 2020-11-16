@@ -16,13 +16,14 @@
 
 - 📄 Know about my experiences <a href="https://linkedin.com/in/minghaodu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="minghaodu" height="30" width="40" /></a>
 
+<br/>
+
 ## :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1356](https://github.com/JonathanGin52/JonathanGin52/issues/1356) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 2. 🎉 Merged PR [#1](https://github.com/DMinghao/DMinghao/pull/1) in [DMinghao/DMinghao](https://github.com/DMinghao/DMinghao)
 <!--END_SECTION:activity-->
-
 
 <br/>
 
@@ -65,9 +66,10 @@
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
 </p>
 
+<br/>
 
 ## &#x1f4c8; GitHub Stats
-
+<div width="100%" high="auto">
 <a href="https://github.com/DMinghao/DMinghao">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&exclude_repo=BeaconProgramer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&hide=jupyter%20notebook&exclude_repo=BeaconProgramer&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
@@ -75,7 +77,7 @@
 <a href="https://github.com/DMinghao/DMinghao" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMinghao&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Minghao's GitHub Stats" />
 </a>
-
+</div>
 <!-- 
 <img align="center" alt="minghaodu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DMinghao&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
