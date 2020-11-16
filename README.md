@@ -80,6 +80,6 @@
 <!-- </div> -->
 
 <a href="https://github.com/DMinghao/DMinghao">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMinghao&custom_title=Weekly%20Stats" width="95%" high="auto"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMinghao&custom_title=Weekly%20Stats&line_height=1" width="93%" high="auto"/>
 </a>
 
