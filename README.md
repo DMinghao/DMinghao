@@ -1,4 +1,6 @@
+<div>
 <h1 align="left">Hi there 👋, I'm Minghao Du</h1> <img src="https://komarev.com/ghpvc/?username=dminghao&label=Profile%20views&color=f81c1c&style=flat-square" alt="dminghao" /> 
+</div>
 <h3 align="left">A business student who loves tech</h3>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/DMinghao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="minghaodu" height="30" width="40" /></a>
