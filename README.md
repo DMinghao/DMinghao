@@ -80,6 +80,6 @@
 <!-- </div> -->
 
 <a href="https://github.com/DMinghao/DMinghao">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMinghao&custom_title=Weekly%20Stats&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_icons=true" width="90%" high="auto"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMinghao&custom_title=Weekly%20Stats&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_icons=true&font_size=5" width="90%" high="auto"/>
 </a>
 
