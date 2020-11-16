@@ -71,7 +71,7 @@
 ## &#x1f4c8; GitHub Stats
 <!-- <div width="100%" high="auto"> -->
 <a href="https://github.com/DMinghao/DMinghao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&exclude_repo=BeaconProgramer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&exclude_repo=BeaconProgramer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true"/>
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&hide=jupyter%20notebook&exclude_repo=BeaconProgramer&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
 </a>
 <a href="https://github.com/DMinghao/DMinghao" >
@@ -80,6 +80,6 @@
 <!-- </div> -->
 
 <a href="https://github.com/DMinghao/DMinghao">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMinghao&custom_title=Weekly%20Stats&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="90%" high="auto"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMinghao&custom_title=Weekly%20Stats&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_icons=true" width="90%" high="auto"/>
 </a>
 
