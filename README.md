@@ -17,8 +17,8 @@
 ## :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DMinghao/DMinghao/pull/1) in [DMinghao/DMinghao](https://github.com/DMinghao/DMinghao)
-2. 💪 Opened PR [#1](https://github.com/DMinghao/DMinghao/pull/1) in [DMinghao/DMinghao](https://github.com/DMinghao/DMinghao)
+1. ❗️ Opened issue [#1356](https://github.com/JonathanGin52/JonathanGin52/issues/1356) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. 🎉 Merged PR [#1](https://github.com/DMinghao/DMinghao/pull/1) in [DMinghao/DMinghao](https://github.com/DMinghao/DMinghao)
 <!--END_SECTION:activity-->
 
 
