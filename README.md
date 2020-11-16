@@ -16,6 +16,8 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/DMinghao/DMinghao/pull/1) in [DMinghao/DMinghao](https://github.com/DMinghao/DMinghao)
+2. 💪 Opened PR [#1](https://github.com/DMinghao/DMinghao/pull/1) in [DMinghao/DMinghao](https://github.com/DMinghao/DMinghao)
 <!--END_SECTION:activity-->
 
 
