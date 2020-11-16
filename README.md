@@ -1,7 +1,13 @@
 <div>
-<h1 align="left">Hi there 👋, I'm Minghao Du</h1> <img src="https://komarev.com/ghpvc/?username=dminghao&label=Profile%20views&color=f81c1c&style=flat-square" alt="dminghao" /> 
+<h1 align="left">Hi there <img src="./asset/wave.gif" alt="wave"/>, I'm Minghao Du</h1> <img src="https://komarev.com/ghpvc/?username=dminghao&label=Profile%20views&color=f81c1c&style=flat-square" alt="dminghao" /> 
 </div>
 <h3 align="left">A business student who loves tech</h3>
+
+- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+
+- 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 [Shuyuan Group](www.shuyuaninc.com)
+
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Infomation Systems 𝚊𝚝 Johns Hopkins 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/DMinghao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="minghaodu" height="30" width="40" /></a>
 
@@ -15,7 +21,7 @@
 
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔧 Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
@@ -54,26 +60,20 @@
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
 </p>
 
-<!--
-**DMinghao/DMinghao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### &#x1f4c8; GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/DMinghao/DMinghao">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&hide=ipynb&exclude_repo=BeaconProgramer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/DMinghao/DMinghao">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMinghao&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Minghao's GitHub Stats" />
+</a>
 
-### :zap: GitHub Stats
-
+<!-- 
 <img align="center" alt="minghaodu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DMinghao&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&langs_count=10&layout=compact&exclude_repo=BeaconProgramer)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&langs_count=10&layout=compact&exclude_repo=BeaconProgramer) -->
 
 ![DMinghao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DMinghao)
 
