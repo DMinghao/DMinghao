@@ -69,8 +69,8 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/DMinghao/DMinghao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao%20notebook&exclude_repo=BeaconProgramer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&hide=jupyter%20notebook&exclude_repo=BeaconProgramer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&exclude_repo=BeaconProgramer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMinghao&hide=jupyter%20notebook&exclude_repo=BeaconProgramer&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/DMinghao/DMinghao" width="100%">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMinghao&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="300px" alt="Minghao's GitHub Stats" />
