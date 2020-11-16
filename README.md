@@ -1,12 +1,12 @@
 <div>
-<h1 align="left">Hi there <img src="./asset/wave.gif" style="width:10rem;height:10rem;"alt="wave"/>, I'm Minghao Du</h1> <img src="https://komarev.com/ghpvc/?username=dminghao&label=Profile%20views&color=f81c1c&style=flat-square" alt="dminghao" /> 
+<h1 align="left">Hi there <img src="./asset/wave.gif" style="width:10px;height:10px;"alt="wave"/>, I'm Minghao Du</h1> <img src="https://komarev.com/ghpvc/?username=dminghao&label=Profile%20views&color=f81c1c&style=flat-square" alt="dminghao" /> 
 </div>
 
 ## A business student who loves tech
 
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
-- 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 <img src="./asset/Shuyuan6.png" style="width:10rem;height:10rem;"alt="wave"/>[Shuyuan Group](www.shuyuaninc.com)
+- 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 <img src="./asset/Shuyuan6.png" style="width:10px;height:10px;"alt="wave"/>[Shuyuan Group](www.shuyuaninc.com)
 
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Infomation Systems 𝚊𝚝 Johns Hopkins 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 
 
