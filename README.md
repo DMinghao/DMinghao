@@ -21,8 +21,8 @@
 ## :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DMinghao/Business_Analysis/pull/1) in [DMinghao/Business_Analysis](https://github.com/DMinghao/Business_Analysis)
-2. 💪 Opened PR [#1](https://github.com/DMinghao/Business_Analysis/pull/1) in [DMinghao/Business_Analysis](https://github.com/DMinghao/Business_Analysis)
+1. 💪 Opened PR [#169](https://github.com/pushtell/react-bootstrap-date-picker/pull/169) in [pushtell/react-bootstrap-date-picker](https://github.com/pushtell/react-bootstrap-date-picker)
+2. 🎉 Merged PR [#1](https://github.com/DMinghao/Business_Analysis/pull/1) in [DMinghao/Business_Analysis](https://github.com/DMinghao/Business_Analysis)
 <!--END_SECTION:activity-->
 
 <br/>
