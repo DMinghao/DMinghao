@@ -21,8 +21,8 @@
 ## :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#169](https://github.com/pushtell/react-bootstrap-date-picker/pull/169) in [pushtell/react-bootstrap-date-picker](https://github.com/pushtell/react-bootstrap-date-picker)
-2. 💪 Opened PR [#169](https://github.com/pushtell/react-bootstrap-date-picker/pull/169) in [pushtell/react-bootstrap-date-picker](https://github.com/pushtell/react-bootstrap-date-picker)
+1. ❗️ Closed issue [#2](https://github.com/DMinghao/DMinghao/issues/2) in [DMinghao/DMinghao](https://github.com/DMinghao/DMinghao)
+2. ❗️ Opened issue [#2](https://github.com/DMinghao/DMinghao/issues/2) in [DMinghao/DMinghao](https://github.com/DMinghao/DMinghao)
 <!--END_SECTION:activity-->
 
 <br/>
