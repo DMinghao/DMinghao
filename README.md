@@ -26,7 +26,7 @@
 <!--END_SECTION:activity-->
 
 <br/>
-
+<!--
 ## 🔧 Languages and Tools:
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -65,7 +65,7 @@
     <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
 </p>
-
+-->
 <br/>
 
 ## &#x1f4c8; GitHub Stats
