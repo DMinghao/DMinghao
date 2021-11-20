@@ -10,7 +10,7 @@
 <!-- - 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 <img src="https://github.com/DMinghao/DMinghao/asset/Shuyuan6.png" width="30px" alt="Shuyaun"/>[Shuyuan Group](www.shuyuaninc.com) -->
 - 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 <img align="center" src="./asset/Shuyuan6.png" width="30px" alt="Shuyaun"/> [Shuyuan Inc.](www.shuyuaninc.com)
 
-- 💼 Data Analysis Consulting Associate at <img align="center" src="./asset/PwC_Logo_White.png" width="60px" alt="PwC"/> [PwC](www.pwc.com)
+- 💼 Data Analysis Consulting Associate at <img align="center" src="./asset/PwC_Logo_White.png" width="120px" alt="PwC"/> [PwC](www.pwc.com)
 
 - 🎓 BS in Management, Marketting, and Management Information Systems (the University of Alabama)
 
