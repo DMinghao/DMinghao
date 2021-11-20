@@ -5,12 +5,18 @@
 
 ## A business student who loves tech
 
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | Data Analyst 
 
 <!-- - 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 <img src="https://github.com/DMinghao/DMinghao/asset/Shuyuan6.png" width="30px" alt="Shuyaun"/>[Shuyuan Group](www.shuyuaninc.com) -->
-- 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 <img align="center" src="./asset/Shuyuan6.png" width="30px" alt="Shuyaun"/>[Shuyuan Inc.](www.shuyuaninc.com)
+- 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 Shuyuan Inc. <img align="center" src="./asset/Shuyuan6.png" width="30px" alt="Shuyaun"/>[Shuyuan Inc.](www.shuyuaninc.com)
 
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Infomation Systems 𝚊𝚝 Johns Hopkins 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 
+- 💼 Data Analysis Consulting Associate at PwC <img align="center" src="./asset/pwc.png" width="30px" alt="PwC"/>[PwC](www.pwc.com)
+
+- 🎓 BS in Management, Marketting, and Management Information Systems (the University of Alabama)
+
+- 🎓 MS in Infomation Systems (the Johns Hopkins 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢)
+
+- 🎓 MS in Applied Analytics (Columbia 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢) 
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/DMinghao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="minghaodu" height="30" width="40" /></a>
 
