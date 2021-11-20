@@ -8,9 +8,9 @@
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | Data Analyst 
 
 <!-- - 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 <img src="https://github.com/DMinghao/DMinghao/asset/Shuyuan6.png" width="30px" alt="Shuyaun"/>[Shuyuan Group](www.shuyuaninc.com) -->
-- 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 Shuyuan Inc. <img align="center" src="./asset/Shuyuan6.png" width="30px" alt="Shuyaun"/>[Shuyuan Inc.](www.shuyuaninc.com)
+- 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 <img align="center" src="./asset/Shuyuan6.png" width="30px" alt="Shuyaun"/>[Shuyuan Inc.](www.shuyuaninc.com)
 
-- 💼 Data Analysis Consulting Associate at PwC <img align="center" src="./asset/pwc.png" width="30px" alt="PwC"/>[PwC](www.pwc.com)
+- 💼 Data Analysis Consulting Associate at <img align="center" src="./asset/pwc.png" width="30px" alt="PwC"/>[PwC](www.pwc.com)
 
 - 🎓 BS in Management, Marketting, and Management Information Systems (the University of Alabama)
 
