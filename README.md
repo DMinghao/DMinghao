@@ -1,26 +1,26 @@
 <div>
-<!-- <h1 align="left">Hi there <img src="https://github.com/DMinghao/DMinghao/asset/wave.gif" width="30px" alt="wave"/>, I'm Minghao Du</h1> <img src="https://komarev.com/ghpvc/?username=dminghao&label=Profile%20views&color=f81c1c&style=flat-square" alt="dminghao" />  -->
 <h1 align="left">Hi there <img src="./asset/wave.gif" width="30px" alt="wave"/>, I'm Minghao Du</h1> <img src="https://komarev.com/ghpvc/?username=dminghao&label=Profile%20views&color=f81c1c&style=flat-square" alt="dminghao" /> 
 </div>
 
-## A business student who loves tech
+## A Little Bit About Myself
 
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | Data Analyst 
+- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 
 
-<!-- - 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 <img src="https://github.com/DMinghao/DMinghao/asset/Shuyuan6.png" width="30px" alt="Shuyaun"/>[Shuyuan Group](www.shuyuaninc.com) -->
-- 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 <img align="center" src="./asset/Shuyuan6.png" width="30px" alt="Shuyaun"/> [Shuyuan Inc.](www.shuyuaninc.com)
+- 🖥 Data analyst 
+
+- 💼 Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚝 <img align="center" src="./asset/Shuyuan6.png" width="30px" alt="Shuyaun"/> [Shuyuan Group](www.shuyuaninc.com)
 
 - 💼 Data Analysis Consulting Associate at <img align="center" src="./asset/PwC_Logo_White.png" width="45px" alt="PwC"/> [PwC](www.pwc.com)
 
-- 🎓 BS in Management, Marketting, and Management Information Systems (the University of Alabama)
+- 🎓 BS in Management, Marketing, and Management Information Systems (the University of Alabama)
 
 - 🎓 MS in Infomation Systems (the Johns Hopkins 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢)
 
 - 🎓 MS in Applied Analytics (Columbia 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢) 
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/DMinghao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="minghaodu" height="30" width="40" /></a>
+- 👨‍💻 Leave a star <a href="https://github.com/DMinghao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="minghaodu" height="30" width="40" /></a>
 
-- 📄 Know about my experiences <a href="https://linkedin.com/in/minghaodu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="minghaodu" height="30" width="40" /></a>
+- 📄 Connect with me on <a href="https://linkedin.com/in/minghaodu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="minghaodu" height="30" width="40" /></a>
 
 <br/>
 
